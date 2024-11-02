@@ -1,0 +1,5 @@
+Config = {
+    namescript = "Ghost-X Hub",--Tên Script
+    logoscript = "83318654275517",--ID Logo Script
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ghostx/vesion/refs/heads/main/scripttbffree.lua"))(
